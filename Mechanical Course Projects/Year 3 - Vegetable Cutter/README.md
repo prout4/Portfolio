@@ -17,4 +17,4 @@ I was able to further improve the design by careful placement of the linkage. Pl
 
 ![Free Running Video](/Mechanical%20Course%20Projects/Year%203%20-%20Vegetable%20Cutter/02Operation.webm)
 
-![Free Running Video](/Mechanical%20Course%20Projects/Year%203%20-%20Vegetable%20Cutter/00Explosion.mp4)
+![Free Running Video](/Mechanical%20Course%20Projects/Year%203%20-%20Vegetable%20Cutter/00Explosion.mp4)v
