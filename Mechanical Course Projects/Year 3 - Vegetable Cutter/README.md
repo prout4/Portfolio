@@ -18,3 +18,6 @@ I was able to further improve the design by careful placement of the linkage. Pl
 ![CAD Operation](02Operation.webm)
 
 ![Explosion](00Explosion.mp4)
+
+https://github.com/user-attachments/assets/03d60524-c13f-464a-92a0-8325a3631a89
+
