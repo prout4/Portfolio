@@ -13,11 +13,12 @@ To minimize mechanical complexity, my system uses a gravity feed. This elminates
 
 I was able to further improve the design by careful placement of the linkage. Placing the cutting section of each stroke in the downstroke ensures that all of the links of the crank-slider are in tension. This fully eliminates the risk of buckling during operation since the links are fully in tension when the maximum load is applied to the system.
 
-![Free Running Video](FreeRunning1.mp4)
+Animation of the linkages.
+[OperationAnimation.webm](https://github.com/user-attachments/assets/629a1508-c282-4fc6-8b8a-554330ccd039)
 
-![CAD Operation](02Operation.webm)
+Free Running Physical System
+https://github.com/user-attachments/assets/90c94db9-3b2e-428e-98d2-8acc641e5e8f
 
-![Explosion](00Explosion.mp4)
 
-https://github.com/user-attachments/assets/03d60524-c13f-464a-92a0-8325a3631a89
-
+Exploded View
+https://github.com/user-attachments/assets/7bdb94a8-d843-4eef-8df5-bff9f254e7c0
