@@ -17,8 +17,8 @@ Animation of the linkages.
 [OperationAnimation.webm](https://github.com/user-attachments/assets/629a1508-c282-4fc6-8b8a-554330ccd039)
 
 Free Running Physical System
-https://github.com/user-attachments/assets/90c94db9-3b2e-428e-98d2-8acc641e5e8f
+[Free Running](https://github.com/user-attachments/assets/90c94db9-3b2e-428e-98d2-8acc641e5e8f)
 
 
 Exploded View
-https://github.com/user-attachments/assets/7bdb94a8-d843-4eef-8df5-bff9f254e7c0
+[ExplodedView](https://github.com/user-attachments/assets/7bdb94a8-d843-4eef-8df5-bff9f254e7c0)
