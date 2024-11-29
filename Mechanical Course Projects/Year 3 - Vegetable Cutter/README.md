@@ -13,8 +13,8 @@ To minimize mechanical complexity, my system uses a gravity feed. This elminates
 
 I was able to further improve the design by careful placement of the linkage. Placing the cutting section of each stroke in the downstroke ensures that all of the links of the crank-slider are in tension. This fully eliminates the risk of buckling during operation since the links are fully in tension when the maximum load is applied to the system.
 
-![Free Running Video](Year%203%20-%20Vegetable%20Cutter/FreeRunning1.mp4)
+![Free Running Video](FreeRunning1.mp4)
 
-![CAD Operation](Year%203%20-%20Vegetable%20Cutter/02Operation.webm)
+![CAD Operation](02Operation.webm)
 
-![Explosion](Year%203%20-%20Vegetable%20Cutter/00Explosion.mp4)v
+![Explosion](00Explosion.mp4)
