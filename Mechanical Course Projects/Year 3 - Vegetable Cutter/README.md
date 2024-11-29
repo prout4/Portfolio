@@ -9,7 +9,7 @@ This project required groups to design and build an automatic vegetable cutter t
 
 To minimize mechanical complexity, my system uses a gravity feed. This elminates the need for multiple linkages with coordinated dwells, allowing the use of a simple crank-slider to drive the motion.
 
-![Full Assembly](/Mechanical%20Course%20Projects/Year%203%20-%20Vegetable%20Cutter/FullAssembly.jpg)
+![Full Assembly](assets/FullAssembly.jpg)
 
 I was able to further improve the design by careful placement of the linkage. Placing the cutting section of each stroke in the downstroke ensures that all of the links of the crank-slider are in tension. This fully eliminates the risk of buckling during operation since the links are fully in tension when the maximum load is applied to the system.
 
