@@ -1,6 +1,6 @@
 ## Prateek Rout Portfolio
 
-A collection of design files, code, projects while at UIUC
+A collection of design files, code, and projects
 
 ### [UCSD E4E Internship - Summer 2022](E4E)
 
