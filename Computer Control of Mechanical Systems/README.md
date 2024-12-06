@@ -15,7 +15,7 @@ The wall following algorithm uses a proportional controller to maintain a set di
 As a fun challenge, we attempted to have the robot make a left-turn only robot (looping turn when at a right corner). Corners are found by checking whether the measured distance from the right wall is extremely large. Once a right corner is detected, the robot enters a looping left turn of decreasing radius. When a wall  is detected at close range, the robot switches out of the looping turn to resume following the wall. This controller required fine tuning of the looping turn to prevent the robot from crashing into the front wall or fully losing the wall.
 
 ### Segbot
-This project balances the robot car on two wheel.
+This project balances the robot car on two wheels.
 
 Balancing requires the implemetation of SPI to read accelerometer data. A Kalman filter was also implemnted since the accelerometer data is very noisy.
 
