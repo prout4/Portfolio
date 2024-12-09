@@ -2,6 +2,7 @@
 
 ### Furuta Pendulum Full State Feedback Control
 The Furuta Pendulum is an underactuated 2 link pendulum system (unactuated elbow). The goal of this experiment was to develop a controller to swing the pendulum up and stabilize it using full state feedback.
+
 ![image](https://github.com/user-attachments/assets/28682fb7-8bf5-4b04-a549-4db7179732e3)
 
 Pole placement was first used to stabilize the equations of motion, linearized about the point of full inversion. This yielded semi-stable results, with somewhat large oscillations to keep the pendulum stable. Adding friction compensation improved stability by reducing the torque required to make small corrections.
