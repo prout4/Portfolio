@@ -25,3 +25,9 @@ Balancing requires the implemetation of SPI to read accelerometer data. A Kalman
 More refined velocities were required compared to wall following, so the transfer function $\frac{100z-100}{z-0.6}$ (discretized version of $\frac{125s}{s+125}$) was used to determine motor velocity and rate of tilt. The tilt, rate of tilt, and motor velocities were combined into a full state feedback controller to balance the robot. This controller was able to balance the segbot, but did not control the robot's position or velocity, making it fairly easy force the robot into an unstable state. 
 
 Adding velocity and steering controller with a PID controller was able to fix this issues and allow us to drive the segbot around (communicating through an ESP32 over wifi to a LabView VI). This controller is implemented similarly to the wall-following robot and sets desired wheel rotation differences and a refernce velocity.
+
+Below is an implementation of position control of the segbot in 2D space, developed as part of the final project of this course. Moving the mouse cursor in LabView 
+
+The robot follows the mouse cursor in a LabView window with a fairly simple bearing and distance algorithm to send the robot towards the desired target point. Updated waypoints are sent over WiFi from the lab computer to an onboard ESP32.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEZcsPnCBUY?si=6tUS48qKFOvpYVyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
