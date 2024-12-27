@@ -1,6 +1,6 @@
 ## Capstone Project
 
-In this project I developed an autonomous forklift system for the transport of neuronal samples between a laboratory space and testing chambers. My main roles in this project were the development of structural components and the full design of all electronic subsystems. The system uses a set of 4 stepper motors to drive 2 vertical lead screws and 2 custom-designed telescopic forks. An addition 2 servo motors are used to open and close a semi-airtight enclosure (to minimize contamination of the neuronal samples).
+In this project I developed an autonomous forklift system for the transport of neuronal samples between a laboratory space and testing chambers. My main roles in this project were the development of structural components and the full design of all electronic subsystems. The system uses a set of 4 stepper motors to drive 2 vertical lead screws and 2 custom-designed telescopic forks. An additional 2 servo motors are used to open and close a semi-airtight enclosure (to minimize contamination of the neuronal samples).
 
 
 https://github.com/user-attachments/assets/4a9908a7-11cc-4c60-a13d-33bdc0796760
