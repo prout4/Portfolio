@@ -30,4 +30,4 @@ Below is an implementation of position control of the segbot in 2D space, develo
 
 The robot follows the mouse cursor in a LabView window with a fairly simple bearing and distance algorithm to send the robot towards the desired target point. Updated waypoints are sent over WiFi from the lab computer to an onboard ESP32.
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/PEZcsPnCBUY?si=6tUS48qKFOvpYVyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://youtu.be/PEZcsPnCBUY)
+[![](http://img.youtube.com/vi/PEZcsPnCBUY/0.jpg)(https://www.youtube.com/watch?v=PEZcsPnCBUY)
